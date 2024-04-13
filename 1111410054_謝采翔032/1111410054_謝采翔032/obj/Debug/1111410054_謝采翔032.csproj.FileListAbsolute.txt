@@ -1,0 +1,7 @@
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔032\1111410054_謝采翔032\bin\Debug\1111410054_謝采翔032.exe.config
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔032\1111410054_謝采翔032\bin\Debug\1111410054_謝采翔032.exe
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔032\1111410054_謝采翔032\bin\Debug\1111410054_謝采翔032.pdb
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔032\1111410054_謝采翔032\obj\Debug\1111410054_謝采翔032.csproj.AssemblyReference.cache
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔032\1111410054_謝采翔032\obj\Debug\1111410054_謝采翔032.csproj.CoreCompileInputs.cache
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔032\1111410054_謝采翔032\obj\Debug\1111410054_謝采翔032.exe
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔032\1111410054_謝采翔032\obj\Debug\1111410054_謝采翔032.pdb

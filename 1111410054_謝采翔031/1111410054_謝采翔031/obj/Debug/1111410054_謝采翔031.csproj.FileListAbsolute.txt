@@ -1,0 +1,14 @@
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔\1111410054_謝采翔031\1111410054_謝采翔031\bin\Debug\1111410054_謝采翔031.exe.config
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔\1111410054_謝采翔031\1111410054_謝采翔031\bin\Debug\1111410054_謝采翔031.exe
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔\1111410054_謝采翔031\1111410054_謝采翔031\bin\Debug\1111410054_謝采翔031.pdb
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.csproj.AssemblyReference.cache
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.csproj.CoreCompileInputs.cache
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.exe
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.pdb
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔031\1111410054_謝采翔031\bin\Debug\1111410054_謝采翔031.exe.config
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔031\1111410054_謝采翔031\bin\Debug\1111410054_謝采翔031.exe
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔031\1111410054_謝采翔031\bin\Debug\1111410054_謝采翔031.pdb
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.csproj.AssemblyReference.cache
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.csproj.CoreCompileInputs.cache
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.exe
+C:\Users\91121\OneDrive\Desktop\1111410054_謝采翔031\1111410054_謝采翔031\obj\Debug\1111410054_謝采翔031.pdb
